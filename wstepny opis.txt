@@ -2,3 +2,13 @@
 Habit tracker
 Projekt realizowany przez Krzysztofa Gadawskiego
 
+Technologia realizacji: WPF
+
+Zastosowanie programu:
+-śledzenie postanowień
+
+Funkcjonalność projektu:
+-dodawanie nowych postanowień
+-kalendarz - dni oznaczone kolorem zależnie od tego czy postanowienie oznaczono jako wykonane czy nie
+-możliwość kontroli więcej niż jednego postanowienia i wygodne przejście pomiędzy postanowieniami
+-wyświetlenie wartości procentowej stosunku dni ukończonych do nieukończonych
