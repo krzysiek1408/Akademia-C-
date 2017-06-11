@@ -8,9 +8,9 @@ Opis aplikacji:
 Aplikacja rozrywkowo-edukacyjna.
 Po uruchomieniu gry można wybrać jeden z trzech poziomów trudności lub sprawdzić najlepszy wynik z poprzednich gier. 
 Po uruchomieniu gry uruchamia się zegar, zliczający pozostały czas na rozgrywkę. Następnie wyświetlana jest flaga jednego z państw 
-i zależnie od ustawionego poziomu trudności trzeba podać inne informacjie. Dla poziomu łatwego, podane zostaną 4 możliwości wyboru 
+i zależnie od ustawionego poziomu trudności trzeba podać inne informacje. Dla poziomu łatwego, podane zostaną 4 możliwości wyboru 
 państwa za pomocą myszki: A/B/C/D. Dla poziomu normalnego wyświetlone zostanie pole do wpisania tekstu oraz prośba o wpisanie 
 w nim nazwy państwa. Dla najwyższego poziomu trudności oprócz nazwy państwa będzie trzeba podać jeszcze nazwę stolicy. 
 Gra toczy się dopóki nie wyczerpie się pula czasu. Każda poprawna odpowiedź będzie dodawała punkty do wyniku, a zła odpowiedź 
-będzie te punkty odejmować. Po zakończeniu gry wyniki są porównywane z aktualną listą najlepszych winików i w razie potrzeby 
+będzie te punkty odejmować. Po zakończeniu gry wyniki są porównywane z aktualną listą najlepszych wyników i w razie potrzeby 
 zostaną dopisane.
