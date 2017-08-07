@@ -1,0 +1,10 @@
+Andrzej
+200
+Marcin
+150
+Krzysiek
+300
+Rafal
+600
+Alicja
+100

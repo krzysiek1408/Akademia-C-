@@ -1,0 +1,47 @@
+﻿<Window x:Class="Akademia_C.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Akademia_C"
+        mc:Ignorable="d"
+        Title="Level" Height="580" Width="724">
+    <Grid Background="#FF818181" Width="795" Height="601">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="412*"/>
+            <ColumnDefinition Width="383*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Easy" HorizontalAlignment="Left" Margin="136,171,0,0" VerticalAlignment="Top" Width="434" Height="91" FontSize="36" FontWeight="Bold" Click="Button_Click" Grid.ColumnSpan="2">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF404040" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Normal" HorizontalAlignment="Left" Margin="136,301,0,0" VerticalAlignment="Top" Width="434" Height="91" FontSize="36" FontWeight="Bold" Click="Button_Click" Grid.ColumnSpan="2">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF404040" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Hard" HorizontalAlignment="Left" Margin="136,425,0,0" VerticalAlignment="Top" Width="434" Height="91" FontSize="36" FontWeight="Bold" Click="Button_Click" Grid.ColumnSpan="2">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF404040" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBox HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" Text="            Choose difficulty" VerticalAlignment="Top" Width="536" Margin="90,28,0,0" Background="#FF697099" FontSize="36" FontWeight="Bold" FontStyle="Italic" TextChanged="TextBox_TextChanged" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>

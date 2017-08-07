@@ -1,0 +1,20 @@
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\bin\Debug\Akademia C.exe.config
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\bin\Debug\Akademia C.exe
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\bin\Debug\Akademia C.pdb
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C.csprojResolveAssemblyReference.cache
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\App.g.cs
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C_MarkupCompile.cache
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C_MarkupCompile.lref
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C.g.resources
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia_C.Properties.Resources.resources
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C.csproj.GenerateResource.Cache
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C.exe
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Akademia C.pdb
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Startup.g.cs
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Startup.baml
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Level.g.cs
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Level.baml
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\BestScore.g.cs
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\BestScore.baml
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Easy.g.cs
+E:\Zapisy\Visual Studio\Akademia C#\Akademia C\Akademia C\obj\Debug\Easy.baml
