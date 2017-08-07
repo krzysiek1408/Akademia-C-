@@ -1,0 +1,11 @@
+Niestety nie udało się prawidłowo zrealizować projektu. Potrzebowałem więcej czasu niż mi się wydawało przez to, że wiele funkcji
+nie działało tak jak powinny, czy tak jak znajdywałem instrukcje w sieci. Niektóre klasy po prostu nie miały metod, które powinny
+mieć. Jak np klasa Random miała u mnie tylko 2 metody: Equals i ReferenceEquals.
+Albo np funkcja z odliczaniem czasu, próbowałem na każdy sposób jaki znalazłem w sieci i nic nie chciało mi działać.
+Również z podpisywaniem adresów zdjęć pod obrazek był problem, ale to jeszcze jakoś tam ominąć szło po prostu ładując kilka obrazków
+w to samo miejsce i ukrywając niepotrzebne.
+Wysyłam ruszony projekt, ale nieskończony.
+Ostatni czas miałem trochę zalatany i założyłem że w 2 dni na spokojnie dam radę ten projekt ukończyć, niestety zbyt dużo nie działało
+jak powinno, zbyt wielu funkcjonalności po prostu nie było. Może wybrałem zbyt ambitny projekt, poruszający rzeczy które były 
+słabo lub wcale poruszane, może moja wersja Visuala jest jakaś wadliwa. W każdym razie zdaję sobie sprawę, że wina leży po mojej
+stronie, jako że mogłem znaleźć więcej czasu na pracę nad projektem. No i dziękuję za wszystko :)
