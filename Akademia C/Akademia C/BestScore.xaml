@@ -1,0 +1,103 @@
+﻿<Window x:Class="Akademia_C.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Akademia_C"
+        mc:Ignorable="d"
+        Title="BestScore" Height="654" Width="798">
+    <Grid Width="798" Background="#FF818181" HorizontalAlignment="Left" Margin="0,0,-8,0">
+        <Canvas HorizontalAlignment="Left" Height="558" Margin="35,35,0,0" VerticalAlignment="Top" Width="720" Background="#FF1B7A12" MinWidth="4" MinHeight="4">
+            <TextBlock TextWrapping="Wrap" Height="64" Width="491" FontSize="48" Canvas.Top="20"><Run Text=" "/><Run Text=" "/><Run Text="      "/><Run Text="Best Score:"/><LineBreak/><Run/></TextBlock>
+            <TextBlock TextWrapping="Wrap" Text="1. " Canvas.Left="26" Canvas.Top="89" FontSize="40"/>
+            <TextBlock TextWrapping="Wrap" Canvas.Left="26" Canvas.Top="147" FontSize="40"><Run Text="2"/><Run Text=". "/></TextBlock>
+            <TextBlock TextWrapping="Wrap" Canvas.Left="26" Canvas.Top="205" FontSize="40"><Run Text="3"/><Run Text=". "/></TextBlock>
+            <TextBlock TextWrapping="Wrap" Canvas.Left="26" Canvas.Top="263" FontSize="40"><Run Text="4"/><Run Text=". "/></TextBlock>
+            <TextBlock TextWrapping="Wrap" Canvas.Left="26" Canvas.Top="321" FontSize="40"><Run Text="5"/><Run Text=". "/></TextBlock>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5" Canvas.Left="347" Canvas.Top="-124">
+                <Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.191"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5" Canvas.Left="347" Canvas.Top="-66">
+                <Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.191"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5" Canvas.Left="347" Canvas.Top="-9">
+                <Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.191"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>
+            </Border>
+            <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5" Canvas.Left="346" Canvas.Top="52">
+                <Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="90.073"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>
+            </Border>
+            <Label x:Name="sLabel1" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="72" Canvas.Top="89" Width="262"/>
+            <Label x:Name="sLabel2" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="72" Canvas.Top="147" Width="262"/>
+            <Label x:Name="sLabel4" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="67" Canvas.Top="263" Width="262"/>
+            <Label x:Name="sLabel5" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="67" Canvas.Top="321" Width="262"/>
+            <Label x:Name="nLabel1" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="377" Canvas.Top="89" Width="262"/>
+            <Label x:Name="nLabel2" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="377" Canvas.Top="147" Width="262"/>
+            <Label x:Name="nLabel3" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="377" Canvas.Top="205" Width="262"/>
+            <Label x:Name="nLabel4" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="377" Canvas.Top="263" Width="262"/>
+            <Label x:Name="nLabel5" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="377" Canvas.Top="321" Width="262"/>
+            <Label x:Name="sLabel3" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="40" Canvas.Left="67" Canvas.Top="205" Width="262"/>
+        </Canvas>
+        <Button Content="Back to main menu" HorizontalAlignment="Left" Margin="204,456,0,0" VerticalAlignment="Top" Width="377" Height="87" FontSize="36" FontWeight="Bold" Click="Button_Click">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFB8E6BC" Offset="0"/>
+                    <GradientStop Color="#FF384938" Offset="0.818"/>
+                    <GradientStop Color="#FF4E874E" Offset="0.485"/>
+                    <GradientStop Color="#FF131D14" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="294" VerticalAlignment="Top" Width="0" Margin="390,124,0,0" Background="Black" MinWidth="2" MinHeight="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="294" VerticalAlignment="Top" Width="0" Margin="50,124,0,0" Background="Black" MinWidth="2" MinHeight="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="294" VerticalAlignment="Top" Width="0" Margin="712,124,0,0" Background="Black" MinWidth="2" MinHeight="2"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Margin="380,-207,0,0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.191"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="662" VerticalAlignment="Top" Width="0" Margin="382,-149,0,0" Background="Black" MinWidth="2" MinHeight="2" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90.191"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+        </Border>
+
+    </Grid>
+</Window>
